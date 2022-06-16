@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Acada Learning Releases Nexus Repository</name>
-	      <url>http://54.176.65.18:8081/repository/Osimama-release/</url>
+	      <url>http://13.57.239.68:8081/repository/Osimama-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Acada Learning Snapshot Nexus Repository</name>
-	      <url>http://54.176.65.18:8081/repository/Osimama-snapshot/</url>
+	      <url>http://13.57.239.68:8081/repository/Osimama-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
